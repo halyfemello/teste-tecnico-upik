@@ -115,3 +115,8 @@ dotnet run
 ```sh
 http://localhost:8099/swagger/index.html
 ```
+
+Exemplo do projeto executando:
+PS: não levar em consideração o UI design... 
+
+![image](https://github.com/halyfemello/teste-tecnico-upik/assets/30935716/ff29ce62-cdc7-4d81-9fea-d0e67a78edcd)
