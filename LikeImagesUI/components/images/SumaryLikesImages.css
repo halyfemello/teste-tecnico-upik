@@ -1,0 +1,22 @@
+.image-list-container {
+    width: 250px;
+    max-width: 600px;
+    margin-top: 30px;
+}
+
+.image-item {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+}
+
+.image-details {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+.image-name, .image-likes {
+    margin: 5px 0;
+}
