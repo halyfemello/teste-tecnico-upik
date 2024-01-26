@@ -58,7 +58,8 @@ A stack ficou com a seguinte estrutura
 - JwtBearer => Para realização de requests dentro do padrão JWT. 
 - Swagger => Implementado a lib para ter uma documentação intuitiva e seguindo o padrão do mercado. 
 - Realizei a estruturação do projeto com o padrão CQRS e utilizando o mediator para sua navegação, e utilizando uma camada da "Autorizacao" fake, para realizar a simulação de validação do token JWT. 
-- O Repositório da aplicação ficou estático com um arquivo .json para simular o banco de dados. 
+- O Repositório da aplicação ficou estático com um arquivo .json para simular o banco de dados.
+- Outro detalhe que costumo fazer é segmentar em projetos separados para o core, repositorio ou apis e assim por diante, só realizei a separação em pastas por ser algo mais pratico e simples no momento. 
 
 # Build dos projetos 
 
